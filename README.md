@@ -1,1 +1,1 @@
-# TiredFlix9.0
+This project was created for the Internet Software Development (CS 3320) course at Texas State University.  The website is similar to netflix, and uses java, HTML, Oracle, Apache Tomcat, and Mysql.  It was created with a group of 3 developers, and was created in an incremental agile development style.
