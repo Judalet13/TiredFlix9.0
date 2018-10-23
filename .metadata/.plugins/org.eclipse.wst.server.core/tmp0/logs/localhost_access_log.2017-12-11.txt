@@ -1,0 +1,8 @@
+127.0.0.1 - - [11/Dec/2017:22:05:33 -0600] "GET / HTTP/1.1" 404 1070
+127.0.0.1 - - [11/Dec/2017:22:51:26 -0600] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:22:54:43 -0600] "GET /TiredFlix/login.jsp HTTP/1.1" 200 4453
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:22:54:43 -0600] "GET /TiredFlix/images/logo2.png HTTP/1.1" 200 46856
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:22:56:45 -0600] "GET /TiredFlix/StaffLogin.jsp HTTP/1.1" 200 4464
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:22:57:17 -0600] "GET /TiredFlix/StaffLogin.jsp HTTP/1.1" 200 4327
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:23:15:08 -0600] "GET /TiredFlix/StaffLogin.jsp HTTP/1.1" 200 4327
+0:0:0:0:0:0:0:1 - - [11/Dec/2017:23:15:28 -0600] "POST /TiredFlix/StaffLoginServlet HTTP/1.1" 404 1097
